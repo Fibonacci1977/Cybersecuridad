@@ -1,217 +1,250 @@
-# Awesome Cyber Security
-A curated list of cyber security resources and tools. 
+Impresionante ciberseguridad
+Una lista seleccionada de recursos y herramientas de ciberseguridad.
 
-## Awesome lists
+Listas geniales
+Awesome Security : una colección de software, bibliotecas, documentos, libros, recursos y cosas interesantes sobre seguridad.
 
-* [Awesome Security](https://github.com/sbilly/awesome-security/) - A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+Awesome Web Security : una lista seleccionada de materiales y recursos sobre seguridad web para aprender técnicas de penetración de vanguardia.
 
-* [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) -  A curated list of Web Security materials and resources for learning cutting edge penetration techniques.
+Aprendizaje automático excepcional para la ciberseguridad : una lista seleccionada de herramientas y recursos increíbles relacionados con el uso del aprendizaje automático para la ciberseguridad.
 
-* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
+awesome-web-hacking - Esta lista es para cualquier persona que desee aprender sobre seguridad de aplicaciones web pero no tenga un punto de partida.
 
-* [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
+awesome-mobile-security - Mantenido por @vaib25vicky con contribuciones de las comunidades de seguridad y desarrolladores.
 
-* [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - Maintained by @vaib25vicky with contributions from the security and developer communities.
+awesome-threat-intelligence - Una lista seleccionada de recursos de inteligencia sobre amenazas increíbles.
 
-* [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of awesome Threat Intelligence resources.
+awesome-security-hardening : una colección de excelentes guías, mejores prácticas, listas de verificación, puntos de referencia, herramientas y otros recursos para el fortalecimiento de la seguridad.
 
-* [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) -  collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
+Seguridad Cibernética Impresionante : una colección de software, bibliotecas, documentos, libros, recursos y cosas geniales sobre seguridad.
 
-* [Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+Awesome Malware Analysis : una lista seleccionada de excelentes herramientas y recursos para el análisis de malware.
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+Awesome SOC : un manual operativo y una base de conocimientos para construir, gestionar y perfeccionar un SOC (incluido el CSIRT).
 
-* [Awesome SOC]( https://github.com/cyb3rxp/awesome-soc) - An operational handbook and knowledge base to build, run and mature a SOC (including CSIRT).
+Bases de datos y alertas sobre amenazas
+ATT&CK es una base de conocimientos sobre el comportamiento de los ciberatacantes y una taxonomía de sus acciones a lo largo de su ciclo de vida. ATT&CK consta de dos partes: ATT&CK para Empresas, que abarca el comportamiento contra las redes de TI y la nube empresariales, y ATT&CK para Dispositivos Móviles, que se centra en el comportamiento contra los dispositivos móviles.
 
-## Threat databases and alerts
+Alertas Cibernéticas Digitales del NHS : Emitimos notificaciones de alerta de ciberseguridad a organizaciones de salud y atención médica, que van desde boletines semanales sobre amenazas hasta alertas inmediatas de alta gravedad.
 
-* [ATT&CK](https://attack.mitre.org/) - ATT&CK is a knowledge base of cyber adversary behavior and taxonomy for adversarial actions across their lifecycle. ATT&CK has two parts: ATT&CK for Enterprise, which covers behavior against enterprise IT networks and cloud, and ATT&CK for Mobile, which focuses on behavior against mobile devices.
+cve- search es accesible a través de una interfaz web y una API HTTP. cve-search es una interfaz para buscar información pública sobre vulnerabilidades de seguridad en software y hardware, así como sus correspondientes exposiciones.
 
-* [NHS Digital Cyber Alerts](https://digital.nhs.uk/cyber-alerts) - We issue cyber security alert notifications to health and care organisations, ranging from weekly threat bulletins to immediate high-severity alerts.
+VULDB : la base de datos de vulnerabilidades número uno que documenta y explica vulnerabilidades de seguridad, amenazas y exploits desde 1970.
 
-* [cve-search](https://cve.circl.lu/) - cve-search is accessible via a web interface and an HTTP API. cve-search is an interface to search publicly known information from security vulnerabilities in software and hardware along with their corresponding exposures.
+La base de datos de exploits es mantenida por Offensive Security, una empresa de formación en seguridad informática que ofrece diversas certificaciones en seguridad informática, así como servicios de pruebas de penetración de alta gama.
 
-* [VULDB](https://vuldb.com/?) - Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.
+0day.today - 0day.today - La mayor base de datos de exploits y mercado de 0day - The Underground, es uno de los sitios web de seguridad informática más populares y completos del mundo.
 
-* [The Exploit Database](https://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services.
+RAPID7 : un repositorio selecto de exploits de software informático verificados y vulnerabilidades explotables.
 
-* [0day.today](https://en.0day.today/) - 0day.today - Biggest Exploits Database and 0day market - The Underground, is one of the world's most popular and comprehensive computer security web sites.
+Base de Datos Nacional de Vulnerabilidades (NVD, por sus siglas en inglés): La NVD es el repositorio del gobierno de EE. UU. de datos de gestión de vulnerabilidades basados ​​en estándares, representados mediante el Protocolo de Automatización de Contenido de Seguridad (SCAP, por sus siglas en inglés).
 
-* [RAPID7](https://www.rapid7.com/db/) - A curated repository of vetted computer software exploits and exploitable vulnerabilities.
+CXSecurity (WLB2), el Laboratorio Mundial de Bugtraq, es una enorme colección de información sobre seguridad en las comunicaciones de datos. Su objetivo principal es informar sobre errores en diversas aplicaciones.
 
-* [National Vulnerability Database](https://nvd.nist.gov/vuln/search) - The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP).
+Base de datos nacional de vulnerabilidades de China (CNNVD) : base de datos de vulnerabilidades gestionada por el gobierno chino, análoga a la base de datos CVE de Estados Unidos, alojada por Mitre Corporation.
 
-* [CXSecurity](https://cxsecurity.com/exploit/) - (WLB2) World Laboratory of Bugtraq is a huge collection of information on data communications safety. Its main objective is to inform about errors in various applications.
+Plataforma de evaluación de vulnerabilidades : la mayor base de datos correlacionada de vulnerabilidades y exploits.
 
-* [China National Vulnerability Database (CNNVD)](http://www.cnnvd.org.cn/) - Chinese government-run vulnerability database analoguous to the United States’s CVE database hosted by Mitre Corporation.
+Base de datos de avisos de GitHub : las últimas vulnerabilidades de seguridad del mundo del software de código abierto.
 
-* [Vulnerability Assessment Platform](https://vulners.com/) - Largest correlated database of vulnerabilities and exploits
+OSV - OSV es una base de datos de vulnerabilidades y una infraestructura de clasificación para proyectos de código abierto, cuyo objetivo es ayudar tanto a los mantenedores de código abierto como a los usuarios de código abierto.
 
-* [GitHub Advisory Database](https://github.com/advisories/) - The latest security vulnerabilities from the world of open source software.
+Base de datos de vulnerabilidades de Snyk : información detallada y guía de solución para vulnerabilidades conocidas.
 
-* [OSV](https://osv.dev/) - OSV is a vulnerability database and triage infrastructure for open source projects aimed at helping both open source maintainers and consumers of open source.
+Base de datos de notas de vulnerabilidad : Esta base de datos proporciona información sobre vulnerabilidades de software. Las notas de vulnerabilidad incluyen resúmenes, detalles técnicos, información sobre soluciones y listas de proveedores afectados.
 
-* [Snyk Vulnerability DB](https://snyk.io/vuln/) - Detailed information and remediation guidance for known vulnerabilities.
+Base de datos de vulnerabilidades de Vulert : la base de datos de vulnerabilidades de Vulert enumera los problemas de seguridad recientes encontrados en paquetes de código abierto para lenguajes como PHP, Java, Python, Node.js y otros.
 
-* [Vulnerability Notes Database](https://www.kb.cert.org/vuls/) - The Vulnerability Notes Database provides information about software vulnerabilities. Vulnerability notes include summaries, technical details, remediation information, and lists of affected vendors.
-  
-* [Vulert Vulnerability DB](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
+Intelligence X es un motor de búsqueda y archivo de datos. La empresa tiene su sede en Praga, República Checa. Su misión es desarrollar y mantener el motor de búsqueda y el archivo de datos.
 
-* [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
-* [Pharos AI](https://conflicts.app) - Open-source real-time OSINT dashboard for geopolitical conflict tracking with interactive geospatial visualization, 30+ news feeds, and actor dossiers.
-* [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status.
-* [defend.network](https://defend.network) - Free AI-powered daily threat briefings and weekly vulnerability reports structured by threat type, industry, and severity, with action checklists and remediation guidance. Sources include CISA advisories and leading cybersecurity publications.
+Pharos AI : panel de control OSINT de código abierto en tiempo real para el seguimiento de conflictos geopolíticos con visualización geoespacial interactiva, más de 30 fuentes de noticias y expedientes de actores.
 
-## Security advice and guidance
+Base de datos de conjuntos de cifrado TLS de Stellastra : lista de cientos de conjuntos de cifrado TLS junto con su calificación de seguridad y estado de vulnerabilidad/descontinuación.
 
-* [The National Cyber Security Centre](https://www.ncsc.gov.uk/section/advice-guidance/all-topics) - Helping to make the UK the safest place to live and work online.
+defend.network : Informes diarios gratuitos sobre amenazas y reportes semanales de vulnerabilidades, basados ​​en inteligencia artificial y estructurados por tipo de amenaza, sector y gravedad, con listas de verificación y guías de remediación. Las fuentes incluyen avisos de CISA y publicaciones líderes en ciberseguridad.
 
-* [End user device (EUD) security guidance](https://www.ncsc.gov.uk/collection/end-user-device-security/) - Guidance for organisations deploying a range of end user device platforms as part of a remote working solution
+Consejos y orientación en materia de seguridad
+El Centro Nacional de Ciberseguridad : Contribuyendo a que el Reino Unido sea el lugar más seguro para vivir y trabajar en línea.
 
-* [Políticas de seguridad para la pyme](https://www.incibe.es/protege-tu-empresa/herramientas/politicas) - Para ayudar a la pyme a poner en marcha los procesos internos con los que mejorar su ciberseguridad presentamos una serie de documentos que hemos denominado como «políticas de seguridad».
+Guía de seguridad para dispositivos de usuario final (EUD) : Guía para organizaciones que implementan diversas plataformas de dispositivos de usuario final como parte de una solución de trabajo remoto.
 
-* [SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders](https://leanpub.com/secops-bit-by-bit) - This book is a compilation of best practices for evaluating weak spots in a product and company, and fostering a robust security culture.
+Políticas de seguridad para la pyme - Para ayudar a la pyme a poner en marcha los procesos internos con los que mejorar su ciberseguridad presentamos una serie de documentos que hemos denominado como «políticas de seguridad».
 
-## Lists of cyber security resources
+SecOps paso a paso: una guía para directores de tecnología novatos y fundadores de startups : este libro es una recopilación de las mejores prácticas para evaluar los puntos débiles de un producto y una empresa, y para fomentar una cultura de seguridad sólida.
 
-* [50+ Cybersecurity Resources](https://darkcubed.com/cybersecurity-resources) - Dark Cubed’s cybersecurity resources page provides links to dozens of 100% free resources you can use for your own business or for your customers.
+Listas de recursos de ciberseguridad
+Más de 50 recursos de ciberseguridad : la página de recursos de ciberseguridad de Dark Cubed ofrece enlaces a decenas de recursos totalmente gratuitos que puedes utilizar para tu propio negocio o para tus clientes.
 
-* [SANS](https://www.sans.org/security-resources/) - The most trusted source for cyber security training, certification, and research.
+SANS : La fuente más fiable para la formación, certificación e investigación en ciberseguridad.
 
-* [RansomLeak Security Awareness Training](https://ransomleak.com/#exercises) - Learn by doing. Free interactive 3D exercises that place learners in realistic attack scenarios. People learn to spot threats and attacks before they happen.
+Capacitación en seguridad de RansomLeak : aprenda practicando. Ejercicios interactivos gratuitos en 3D que sitúan a los participantes en escenarios de ataque realistas. Aprenda a detectar amenazas y ataques antes de que ocurran.
 
-* [The Uber List of Cybersecurity Resources](https://www.cyberdegrees.org/resources/the-big-list/) - We’ve subtitled this list: “Everything you want to know about cyber security and are too tired to search for.” Whatever you may be interested in — from DEF CON to SANS — you will find on this page.
+La lista definitiva de recursos sobre ciberseguridad : hemos subtitulado esta lista: «Todo lo que quieres saber sobre ciberseguridad y estás demasiado cansado para buscarlo». Sea lo que sea que te interese, desde DEF CON hasta SANS, lo encontrarás en esta página.
 
-* [Cybersecurity resource center](https://cybersecurityguide.org/resources/) - This guide is intended to provide actionable resources for everyone looking to learn more about the field.
+Centro de recursos sobre ciberseguridad : esta guía tiene como objetivo proporcionar recursos prácticos para todos aquellos que deseen aprender más sobre este campo.
 
-* [US Homeland Security - Cybersecurity Resources](https://www.dhs.gov/science-and-technology/cybersecurity-resources) - DHS Science and Technology Directorate (S&T) published documents and other cybersecurity references and links can be found on this page.
+En esta página encontrará documentos publicados por la Dirección de Ciencia y Tecnología (C&T) del Departamento de Seguridad Nacional de EE. UU., así como otras referencias y enlaces relacionados con la ciberseguridad.
 
-* [Cyber Security Education](https://www.cybersecurityeducation.org/resources/) - This page is devoted to helping cyber security experts find the resources they need to grow and thrive.
+Formación en Ciberseguridad : Esta página está dedicada a ayudar a los expertos en ciberseguridad a encontrar los recursos que necesitan para crecer y prosperar.
 
-* [NATIONAL INITIATIVE FOR CYBERSECURITY CAREERS AND STUDIES](https://niccs.cisa.gov/workforce-development/cybersecurity-resources) - The premier online resource for cybersecurity training. NICCS connects Government employees, students, educators, and industry with cybersecurity training providers throughout the Nation.
+INICIATIVA NACIONAL PARA CARRERAS Y ESTUDIOS EN CIBERSEGURIDAD : El principal recurso en línea para la formación en ciberseguridad. NICCS conecta a empleados gubernamentales, estudiantes, educadores y empresas con proveedores de formación en ciberseguridad en todo el país.
 
+25 recursos, cursos y herramientas gratuitas sobre ciberseguridad : una gran cantidad de cursos y recursos gratuitos sobre ciberseguridad que abarcan todos los temas relacionados con este campo.
 
-* [25 Free Cybersecurity Resources, Courses, and Tools](https://www.springboard.com/blog/cybersecurity/free-cybersecurity-resources/) -  A plethora of free cybersecurity courses and resources on all topics related to the field.
+Los mejores sitios web y blogs sobre ciberseguridad : aquí tienes algunos de los mejores blogs y sitios web sobre ciberseguridad.
 
-* [Top Cybersecurity Sites and Blogs](https://www.purdueglobal.edu/blog/information-technology/cybersecurity-industry-resources/) - Here are some of the best top cybersecurity blogs and sites.
+Sitios web relacionados con la ciberseguridad : esta lista de sitios web relacionados ofrece recursos adicionales para profundizar en el tema de la ciberseguridad. Entre los sitios se incluyen organizaciones gubernamentales, como agencias federales, el Departamento de Defensa y las fuerzas armadas, organizaciones comerciales e instituciones académicas.
 
-* [Cybersecurity Related Websites](https://www.csiac.org/resources/cybersecurity-related-websites/) - The listing of related sites provide additional sources to pursue the topic of Cybersecurity. The sites include Government organizations, including federal agencies, Department of Defense and military service agencies, commercial organizations, and academic institutions.
+CENTRO DE RECURSOS DE SEGURIDAD INFORMÁTICA - Durante 20 años, el Centro de Recursos de Seguridad Informática (CSRC) ha brindado acceso a los proyectos, publicaciones, noticias y eventos del NIST relacionados con la ciberseguridad y la seguridad de la información. El CSRC apoya a las partes interesadas en el gobierno, la industria y el ámbito académico, tanto en Estados Unidos como a nivel internacional.
 
-* [COMPUTER SECURITY RESOURCE CENTER](https://csrc.nist.gov/) - For 20 years, the Computer Security Resource Center (CSRC) has provided access to NIST's cybersecurity- and information security-related projects, publications, news and events.   CSRC supports stakeholders in government, industry and academia—both in the U.S. and internationally.
+Secureworks Resources & Research - Recursos de liderazgo intelectual en ciberseguridad e investigaciones de Counter Threat Unit™.
 
-* [Secureworks Resources & Research](https://www.secureworks.com/resources) - Cybersecurity thought leadership resources & Counter Threat Unit™ research.
-
-* [IEEE](https://innovationatwork.ieee.org/cyber-security/) - IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
-
-* [The best resources to learn cybersecurity online in 2021](https://www.mygreatlearning.com/blog/the-best-resources-to-learn-cybersecurity-online/) - his list of free and paid cybersecurity resources, courses, books, blogs, tools and cheat codes will help both freshers and professionals to stay updated.
-
-* [Sifma Cybersecurity Resources](https://www.sifma.org/resources/cybersecurity-resources/) - Here are resources for the financial industry to address critical cyber threats and improve the industry’s overall cybersecurity.
-
-* [Internet Safety 101SM](https://internetsafety101.org/CyberSecurityResources) - Internet Safety 101SM is a digitally-based internet safety resource designed to educate, equip and empower parents, educators and other adults with the knowledge and resources needed to protect children from Internet dangers including pornography, predators, cyberbullies and threats related to online gaming, social networking and mobile devices.
-
-* [Security Acronyms](https://github.com/cloudsecurelab/security-acronyms) - Curated list of security related acronyms and terms.
-
-* [vnaya - Cybersecurity For Your Kids](https://www.vnaya.com/these-top-educational-cyber-security-resources-will-help-your-kids-to-stay-safe-from-cyber-crime/) - These Top Educational Cyber Security Resources Will Help Your Kids To Stay Safe From Cyber Crime.
-* [Gracker AI](https://gracker.ai/) - AI Cybersecurity Marketing Tool
-* [Watchtower](https://github.com/fzn0x/watchtower) - AI Pentesting Framework Automation Tool
-
-## Must Read
-- [RTFM: Red Team Field Manual v2](https://amzn.to/3IZXVj2) by Ben Clark, Nick Downer 
-- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://amzn.to/3F5H9xT) by Dafydd Stuttard, and Marcus Pinto
-- [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://amzn.to/3mwdDLt) by Peter Kim
-- [Bug Bounty Bootcamp](https://amzn.to/3l1a8fn) by Vickie Li
-- [Black Hat Python](https://amzn.to/3T3a4Zd) by Justin Seitz and Tim Arnold
-- [Black Hat Go](https://amzn.to/3mvzh2f) by Tom Steele, Chris Patten, and Dan Kottmann
-  
-## Fundamental Books
-- [Ethical Hacking](https://amzn.to/41TLu12) by Daniel G. Graham
-- [Foundations of Information Security](https://amzn.to/41VOPga) by Jason Andress
-- [Penetration Testing](https://amzn.to/3mweg7N) by Georgia Weidman
-- [Metasploit](https://amzn.to/3Zq362M) by David Kennedy, Jim O’Gorman, Devon Kearns, and Mati Aharoni
-- [The Tangled Web: A Guide to Securing Modern Web Applications](https://amzn.to/3yhgv14) by Michal Zalewski
-  
-## Web Hacking & Bug Bounty
-- [Hacking APIs](https://amzn.to/3F3M1Dw) by Corey Ball
-- [Real-World Bug Hunting](https://amzn.to/3ZLqc3F) by Peter Yaworski
-
-## Secure Software Development (OWASP)
-
-* [OWASP Top 10](https://owasp.org/Top10/) - The most critical security risks to web applications.
-* [OWASP API Security Top 10](https://owasp.org/API-Security/) - The top risks specific to API security.
-* [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/) - Common security risks for mobile apps.
-* [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) - Application Security Verification Standard for defining security requirements.
-* [OWASP MASVS](https://owasp.org/www-project-mobile-application-security/) - Mobile Application Security Verification Standard.
-* [OWASP SAMM](https://owasp.org/www-project-samm/) - Software Assurance Maturity Model for building a security program.
-* [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Risks and guidance for applications using large language models.
-* [OWASP Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/) - Comprehensive guide to web app security testing.
-* [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/) - Guide for testing mobile applications.
-* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Pragmatic checklists and best practices for secure development.
-* [OWASP ZAP](https://www.zaproxy.org/) - Integrated penetration testing tool for finding vulnerabilities in web apps.
-* [OWASP Dependency-Check](https://jeremylong.github.io/DependencyCheck/) - Software Composition Analysis (SCA) to find vulnerable dependencies.
-* [CycloneDX](https://cyclonedx.org/) - SBOM standard for software supply chain transparency.
-* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/) - Threat modeling tool for diagramming and tracking threats.
-* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Intentionally insecure web app for security training.
-* [OWASP WebGoat](https://owasp.org/www-project-webgoat/) - Deliberately insecure web application maintained by OWASP.
-* [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Training platform for learning and practicing application security.
-* [OopsSec Store (OSS)](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce web application for CTF use.
-
-## Platforms to learn cyber security
-
-* [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity)
-* [TryHackMe](https://tryhackme.com)
-* [Hackthebox](https://hackthebox.com)
-* [Blueteamlabs](https://blueteamlabs.online)
-* [overthewire](https://overthewire.org)
-* [cyberdefenders](https://cyberdefenders.org)
-* [The XSS Rat](https://thexssrat.com)
-* [ine](https://ine.com)
-* [Cybersecurity roadmap](https://roadmap.sh/cyber-security)
-* [Cybrary](https://www.cybrary.it)
-* [PortSwigger](https://portswigger.net/web-security)
-* [Vulnhub](https://www.vulnhub.com)
-* [root-me](https://www.root-me.org)
-* [picoctf](https://picoctf.org)
-* pwntilldawn0
-* [hackthissite](https://www.hackthissite.org)
-* hackforums
-* ctf az
-* [TCM academy](https://academy.tcm-sec.com/)
-* [Hacking Articles - Raj Chandel's Blog](https://www.hackingarticles.in/)
-* [Active Directory Security](https://adsecurity.org/)
-* [HackTricks](https://book.hacktricks.xyz/welcome/readme)
-* hadess.io
-* [Home | RedTeamRecipe](https://redteamrecipe.com/)
-* [PentesterLab](https://pentesterlab.com/)
-* [LetsDefend](https://letsdefend.io/)
-* [SECURITY BLUE TEAM](https://securityblue.team/training/)
-* [The Red Canary Blog](https://redcanary.com/blog/)
-* [Explore Atomic Red Team](https://atomicredteam.io/)
-* [Projectdiscovery.io](https://chaos.projectdiscovery.io/#/)
-* [BugBountyHunting.com](https://www.bugbountyhunting.com/)
-* [Bug Bounty Guide](https://bugbountyguide.org/)
-* [Pentester Land](https://pentester.land/)
-* [isc2](https://www.isc2.org)
-* [vulnmachines](https://www.vulnmachines.com/)
-* [Purple Academy | picussecurity.com](https://academy.picussecurity.com/start)
-* [OPSWAT Academy](https://learn.opswatacademy.com/certifications)
-* [APIsec University](https://www.apisecuniversity.com/)
-* [HackerSploit](https://hackersploit.org/)
-* [Practical DevSecOps](https://www.practical-devsecops.com/)
-* [Tracelabs](https://www.tracelabs.org/)
-* [Hacksplaining](https://www.hacksplaining.com)
-* [DarkRelay Security Labs](https://www.darkrelay.com)
-* [CyberPython](https://pythoncyber.go.ro)
-* [SOCLabs-SIEM Exercise](https://www.soc-labs.top/)
-
-## Certifications
-
-* [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
-
-
- 
-## Contributions welcome
-
-If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
+IEEE - IEEE es la organización profesional técnica más grande del mundo dedicada a promover la tecnología en beneficio de la humanidad.
+
+Los mejores recursos para aprender ciberseguridad en línea en 2021 : su lista de recursos, cursos, libros, blogs, herramientas y trucos de ciberseguridad, tanto gratuitos como de pago, ayudará tanto a principiantes como a profesionales a mantenerse actualizados.
+
+Recursos de ciberseguridad de Sifma : Aquí encontrará recursos para que el sector financiero aborde las amenazas cibernéticas críticas y mejore la ciberseguridad general del sector.
+
+Internet Safety 101SM es un recurso digital sobre seguridad en Internet diseñado para educar, equipar y empoderar a padres, educadores y otros adultos con el conocimiento y los recursos necesarios para proteger a los niños de los peligros de Internet, incluyendo la pornografía, los depredadores, el ciberacoso y las amenazas relacionadas con los juegos en línea, las redes sociales y los dispositivos móviles.
+
+Acrónimos de seguridad : lista seleccionada de acrónimos y términos relacionados con la seguridad.
+
+vnaya - Ciberseguridad para tus hijos - Estos recursos educativos de primera categoría sobre ciberseguridad ayudarán a tus hijos a mantenerse a salvo de los delitos cibernéticos.
+
+Gracker AI - Herramienta de marketing de ciberseguridad con IA
+
+Watchtower - Herramienta de automatización de pruebas de penetración con IA
+
+Lectura obligatoria
+RTFM: Manual de campo del equipo rojo v2 por Ben Clark y Nick Downer
+Manual del hacker de aplicaciones web: Cómo encontrar y explotar fallos de seguridad, por Dafydd Stuttard y Marcus Pinto.
+El manual del hacker 3: Guía práctica para las pruebas de penetración, de Peter Kim.
+Curso intensivo sobre recompensas por errores informáticos impartido por Vickie Li
+Black Hat Python por Justin Seitz y Tim Arnold
+Black Hat Go de Tom Steele, Chris Patten y Dan Kottmann
+Libros fundamentales
+Hacking ético por Daniel G. Graham
+Fundamentos de la seguridad de la información por Jason Andress
+Pruebas de penetración realizadas por Georgia Weidman
+Metasploit por David Kennedy, Jim O'Gorman, Devon Kearns y Mati Aharoni
+La intrincada red: una guía para proteger las aplicaciones web modernas, por Michal Zalewski
+Hacking web y programa de recompensas por detección de errores
+Hacking de API por Corey Ball
+Búsqueda de insectos en el mundo real por Peter Yaworski
+Desarrollo de software seguro (OWASP)
+OWASP Top 10 : Los riesgos de seguridad más críticos para las aplicaciones web.
+Los 10 principales riesgos de seguridad de las API según OWASP : los riesgos más importantes específicos para la seguridad de las API.
+OWASP Mobile Top 10 : Riesgos de seguridad comunes para aplicaciones móviles.
+OWASP ASVS : Estándar de verificación de seguridad de aplicaciones para definir los requisitos de seguridad.
+OWASP MASVS - Estándar de verificación de seguridad para aplicaciones móviles.
+OWASP SAMM : Modelo de madurez de garantía de software para la creación de un programa de seguridad.
+OWASP Top 10 para aplicaciones LLM : Riesgos y orientación para aplicaciones que utilizan modelos de lenguaje extensos.
+Guía de pruebas de seguridad web de OWASP (WSTG) : guía completa para las pruebas de seguridad de aplicaciones web.
+Guía de pruebas de seguridad móvil de OWASP (MSTG) : guía para probar aplicaciones móviles.
+Serie de guías rápidas de OWASP : listas de verificación prácticas y mejores prácticas para un desarrollo seguro.
+OWASP ZAP : herramienta integrada de pruebas de penetración para encontrar vulnerabilidades en aplicaciones web.
+OWASP Dependency-Check : Análisis de composición de software (SCA) para encontrar dependencias vulnerables.
+CycloneDX : estándar SBOM para la transparencia en la cadena de suministro de software.
+OWASP Threat Dragon : herramienta de modelado de amenazas para diagramar y realizar un seguimiento de las mismas.
+OWASP Juice Shop : una aplicación web intencionalmente insegura para la formación en seguridad.
+OWASP WebGoat : aplicación web deliberadamente insegura mantenida por OWASP.
+OWASP Security Shepherd : plataforma de formación para aprender y practicar la seguridad de las aplicaciones.
+OopsSec Store (OSS) : una aplicación web de comercio electrónico intencionadamente vulnerable para su uso en CTF (Capture The Flag).
+Plataformas para aprender ciberseguridad
+Laboratorios de Ciberseguridad LabEx
+TryHackMe
+Hackthebox
+Blueteamlabs
+por cable
+ciberdefensores
+La rata XSS
+ene
+Hoja de ruta de ciberseguridad
+Biblioteca cibernética
+PortSwigger
+Vulnhub
+raíz
+picoctf
+pwntilldawn0
+hackeando este sitio
+foros de hackers
+ctf az
+Academia de Medicina Tradicional China
+Artículos sobre piratería informática - Blog de Raj Chandel
+Seguridad de Active Directory
+Trucos de hackeo
+hadess.io
+Inicio | Receta del Equipo Rojo
+Laboratorio de pruebas de penetración
+Defendamos
+EQUIPO AZUL DE SEGURIDAD
+El blog del Canario Rojo
+Explora Atomic Red Team
+Projectdiscovery.io
+BugBountyHunting.com
+Guía de recompensas por errores
+Pentester Land
+isc2
+máquinas vulnerables
+Academia Púrpura | picussecurity.com
+Academia OPSWAT
+Universidad APIsec
+HackerSploit
+DevSecOps práctico
+Tracelabs
+Explicaciones chapuceras
+Laboratorios de seguridad DarkRelay
+CyberPython
+Ejercicio SOCLabs-SIEM
+Certificaciones
+Hoja de ruta para la certificación de seguridad - Paul Jerimy Media
+Se aceptan contribuciones.
+Si deseas contribuir a esta lista, simplemente haz un fork, realiza tus cambios y envíame una solicitud de extracción. Estaré encantado de revisar todas tus sugerencias :)
+
+Consulta también
+Awesome Storage : una selección de herramientas de almacenamiento de código abierto. Copias de seguridad, redundancia, compartición, distribución, cifrado, etc.
+Acerca de
+No se proporciona descripción, sitio web ni temas.
+Recursos
+ Léame
+Licencia
+ Licencia MIT
+ Actividad
+Estrellas
+ 0 estrellas
+Vigilantes
+ 0 espectadores
+Horquillas
+ 0 tenedores
+Lanzamientos
+No se han publicado comunicados
+Crear una nueva versión
+Paquetes
+No hay paquetes publicados.
+Publica tu primer paquete.
+Colaboradores
+18
+@okhosting
+@johnull
+@ElnurBDa
+@ankitdn
+@ayarotsky
+@manuelbcd
+@arhadnane
+@cyb3rxp
+@kOaDT
+@gougui
+@fzn0x
+@aprendizajeenciberseguridad
+@stellastrareviews
+@Juliusolsson05
++ 4 colaboradores
+Pie de página
+© 2026 GitHub, Inc.
+Navegación del pie de página
+Términos
+Privacidad
+Segurida
 
 ## Check out also
 
